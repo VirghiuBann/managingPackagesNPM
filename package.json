@@ -3,6 +3,7 @@
 	"author": "Virghiu C.",
 	"description": "Project to learn how manage npm packages",
 	"keywords": ["freecodecamp", "nodeJs", "npm"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
