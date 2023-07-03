@@ -2,12 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Virghiu C.",
 	"description": "Project to learn how manage npm packages",
-	"keywords": ["freecodecamp", "nodeJs", "npm"],
+	"keywords": [
+		"freecodecamp",
+		"nodeJs",
+		"npm"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
