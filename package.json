@@ -1,6 +1,7 @@
 {
-	"author": "Virghiu C.",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Virghiu C.",
+	"description": "Project to learn how manage npm packages",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
